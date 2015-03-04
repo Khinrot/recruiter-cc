@@ -1,6 +1,3 @@
-# recruiter-cc-list
-Recruiter Block List
-
 # Introduction
 This is a simple repo with a list of recruiters who spam you with unwanted unsolicited jobs adverts. If you're like me, you're sick of having these shoved down your throat. This has inspired me to create this fun (really fun!) game. I hope you all take part in the game, and also contribute to the list.
 
