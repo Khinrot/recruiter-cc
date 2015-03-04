@@ -12,7 +12,7 @@ This is a simple repo with a list of recruiters who spam you with unwanted unsol
 
 
 ## Why?
-Just cos. Plus, my hope is that we can destroy this fucking shonky practice, but hitting back. Each spam they send, will cause spam to their colleagues and rival companies.
+Just cos. Plus, my hope is that we can destroy this fucking shonky practice, by hitting back. Each spam they send, will cause spam to their colleagues and rival companies.
 
 In the words of drcongo:
 What to do if you find your company on this list? Stop shitting in the inboxes of busy people. Leave and go work for a company with some ethics.
